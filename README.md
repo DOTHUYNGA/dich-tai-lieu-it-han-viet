@@ -9,7 +9,7 @@
 - Tài liệu mô phỏng giao tiếp dự án (phiên dịch)
 
 📄 **File chính**:
-- `tai-lieu-dich-song-ngu.pdf`
-- `tu-dien-thuat-ngu.xlsx`
+- Tai-lieu-dich-song-ngu.pdf`
+- IT_TuVung_HanViet.xlsx
 
 📬 Người thực hiện: ĐỖ THÚY NGA – ứng viên vị trí IT Comtor tiếng Hàn
